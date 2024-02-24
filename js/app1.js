@@ -1,0 +1,1 @@
+console.log("Hola ya cumpli con mis objetivos motherfuckers")
